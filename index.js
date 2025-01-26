@@ -1,7 +1,7 @@
 import * as cowsay from "cowsay";
 
 const message = cowsay.say({
-    text: "Mooo!",
+    text: "Mooo Who?!",
 })
 
 console.log(message);
