@@ -1,6 +1,6 @@
 import * as cowsay from "cowsay";
 
-const message = cowsay.say({
+const message = cowsay.think({
     text: "Mooo Who?!",
 })
 
